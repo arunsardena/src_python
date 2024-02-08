@@ -1,2 +1,2 @@
 # src_python
-Python_sample_problems
+This repository contains sample python programs explaining the various python concept
